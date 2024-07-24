@@ -31,4 +31,4 @@ const inputPdf = "./input.pdf";
 const outputPdf = "./output.pdf";
 
 // Execute the function to extract pages 40 to 43
-extractPages(inputPdf, outputPdf, 40, 43);
+extractPages(inputPdf, outputPdf, 301, 303);

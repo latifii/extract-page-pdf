@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node extract-pages.js"
+  },
   "dependencies": {
     "pdf-lib": "^1.17.1"
   }

@@ -29,7 +29,7 @@ This project provides a simple script to extract specific pages from a PDF file 
 
 3. Run the script using Node.js:
    ```bash
-   node extract-pages.js
+   npm start
    ```
 
 ### Example
